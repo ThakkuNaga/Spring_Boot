@@ -1,4 +1,4 @@
-# Spring_Boot
+# Spring_Boot_Event_API
 
 Spring Boot REST API project
 1. start the service using Spring Boot.
